@@ -9,7 +9,7 @@ body {
 }
 .container {
     width: 320px;
-    height: 100vh;
+    height: 80vh;
     backdrop-filter: blur(0.5px);
     position: absolute;
     left: 50%;
