@@ -40,7 +40,8 @@ p {
     color: #fff;
     background: linear-gradient(to bottom right, grey, transparent);
     border-radius: 10px;
-    text-shadow: 5px black;
+    margin: 5px;
+    text-shadow: 2px  2px 1px black;
     animation: opacity 2s ease-in 1ms;
 }
 @keyframes opacity {
