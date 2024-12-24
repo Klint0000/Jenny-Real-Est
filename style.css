@@ -41,6 +41,7 @@ p {
     background: linear-gradient(to bottom right, grey, transparent);
     border-radius: 10px;
     margin: 5px;
+    padding: 10px;
     text-shadow: 2px  2px 1px black;
     animation: opacity 2s ease-in 1ms;
 }
