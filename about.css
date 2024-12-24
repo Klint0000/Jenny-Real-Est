@@ -98,6 +98,7 @@ a:hover {
     .contact {
         margin-top: 20px;
         position: absolute;
+        top: 0;
     }
     a {
         font-size: 25px;
