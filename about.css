@@ -87,13 +87,13 @@ a:hover {
         background: rgb(122, 121, 121);
     }
     img {
-        width: 380px;
-        height: 380px;
+        width: 320px;
+        height: 320px;
         margin-top: 0;
     }
     img:hover {
-        width: 400px;
-        height: 400px;
+        width: 330px;
+        height: 330px;
     }
     a {
         font-size: 25px;
