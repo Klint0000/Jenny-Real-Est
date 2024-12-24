@@ -73,7 +73,6 @@ a:hover {
     body {
         width: 100%;
         height: 100vh;
-        overflow-y: hidden;
     }
     .first {
         margin: 10px 50px;
