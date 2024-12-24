@@ -97,6 +97,7 @@ a:hover {
     }
     .contact {
         margin-top: 20px;
+        position: absolute;
     }
     a {
         font-size: 25px;
