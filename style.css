@@ -121,7 +121,6 @@ a {
     }
     div a {
         border: 2px solid black;
-        margin-top: -20px;
         position: absolute;
         bottom: 0;
         
