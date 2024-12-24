@@ -99,6 +99,7 @@ a:hover {
         margin-top: 20px;
         position: absolute;
         bottom: 0;
+        margin-bottom: 50px;
     }
     a {
         font-size: 25px;
